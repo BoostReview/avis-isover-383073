@@ -1,2 +1,8 @@
-# avis-isover-383073
-Page d'avis personnalisée pour recueillir des retours clients
+# Page d'avis pour avis-isover-383073
+
+Cette page d'avis personnalisée a été générée automatiquement.
+
+## Contenu
+
+- `index.html`: La page d'avis principale
+- `vercel.json`: Configuration pour le déploiement Vercel
